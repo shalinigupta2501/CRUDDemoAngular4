@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Scissor",
+      "color": "Red",
+      "id": 1
+    },
+    {
+      "name": "Steak Knives",
+      "color": "Blue",
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Shot Glass",
+      "color": "Black"
+    },
+    {
+      "name": "Toy",
+      "color": "White",
+      "id": 4
+    },
+    {
+      "name": "coat",
+      "color": "red",
+      "id": 5
+    }
+  ]
+}
